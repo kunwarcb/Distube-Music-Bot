@@ -1,6 +1,6 @@
-const status = "AUTOMATIC";
-const botName = "💮 Distube Bot [ Free Tier ] ";
-const text = "GlaceYT";
+const status = "Extream CB";
+const botName = "Extream Rhythemix ";
+const text = "Extream";
 const version = "Latest@ v4.0.1";
 const startTime = Date.now();
 
