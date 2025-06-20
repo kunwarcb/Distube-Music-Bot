@@ -52,3 +52,4 @@ app.listen(port, () => {
 
 
 client.login(process.env.TOKEN);
+TOKEN = "MTM4NTIyNTExOTg3MzM2ODEwNQ.G62TEG.0B4iIZ4bMWOU7t0GSJbXvISyLLxstveCF_KJDk"
