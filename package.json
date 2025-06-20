@@ -1,7 +1,7 @@
 {
   "name": "music",
   "version": "4.0.1",
-  "description": "A Discord bot with DisTube and slash commands.",
+  "description": "Extream ",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
